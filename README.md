@@ -13,11 +13,11 @@ Development
 
 Main feature:
 
-* [] List Indonesian pythonista from Directory project
-* [] Fetch their xml files
-* [] Render it as static HTML
+* [ ] List Indonesian pythonista from Directory project
+* [ ] Fetch their xml files
+* [ ] Render it as static HTML
 
 Additional feature:
 
-* [] Create twitterbot
-* [] Create ircbot
+* [ ] Create twitterbot
+* [ ] Create ircbot

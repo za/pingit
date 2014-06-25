@@ -1,7 +1,7 @@
 pingit
 ======
 
-Planet Python Git 
+[Planet Python Git](http://pingit.python.or.id)
 
 Idea
 ====

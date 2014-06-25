@@ -21,3 +21,8 @@ Additional feature:
 
 * [ ] Create twitterbot
 * [ ] Create ircbot
+
+Feedback
+========
+
+Please create new issue or mention [@planpin](https://twitter.com/planpin).

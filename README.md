@@ -1,7 +1,7 @@
 pingit
 ======
 
-[Planet Python Git](http://pingit.python.or.id)
+[Planet Python Git](http://pingit.python.or.id) *still 404 Not Found*
 
 Idea
 ====
